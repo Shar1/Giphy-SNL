@@ -1,0 +1,17 @@
+html {
+    background-image:
+    linear-gradient(90deg, transparent 6em, red 6.2em, red 6em, transparent 6.2em),
+    linear-gradient(#eee .1em, transparent .1em);
+    background-size: 100% 1.2em;
+}
+h1 {
+    text-align:center;
+    }
+h2 {
+    text-align:130px; 
+  color:orange
+    }
+img{
+  margin-left:120px;
+ 
+}
